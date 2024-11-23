@@ -32,8 +32,8 @@ const Details = () => {
         </p>
       </div>
 
-      <div className='ml-64 mt-8 flex items-center space-x-6 mr-124'>
-        <Image src={img} alt='' className='ml-64 w-124 h-72 ml-80 rounded-lg'/>
+      <div className='ml-32 mt-8 flex items-center space-x-6 mr-124'>
+        <Image src={img} alt='' className='ml-96 w-124 h-72 ml-80 rounded-lg'/>
         <Image src={img2} alt='' className='w-124 h-72 ml-80 rounded-lg'/>
         <Image src={img3} alt='' className='w-124 h-72 ml-80 rounded-lg'/>
       </div>
